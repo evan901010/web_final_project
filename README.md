@@ -14,3 +14,6 @@ Developer:
 
   Here exhibit some self-made games, programming works, and research. You can click game screen and interact with varied games. More works will be published in near future
 
+1st version demo of my wesite:
+https://www.youtube.com/watch?v=VyQYrOQMlI4&ab_channel=%E8%83%A1%E7%A5%90%E8%8F%AF
+

@@ -11,5 +11,6 @@ Designer:
   I design this part as retro arcade gallery. Title of works and its description will be shown once  you move your cursor on my work.
   
 Developer:
+
   Here exhibit some self-made games, programming works, and research. You can click game screen and interact with varied games. More works will be published in near future
 
